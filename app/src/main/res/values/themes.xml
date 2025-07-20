@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.RelogioWidget" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.RelogioWidget.NoActionBar" parent="Theme.RelogioWidget">
+        <!-- aqui você pode colocar customizações extras para a ClockActivity -->
+    </style>
+</resources>

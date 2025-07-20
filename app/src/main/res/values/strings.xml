@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Relógio</string>
+    <string name="welcome_title">Bem-vindo ao Relógio</string>
+    <string name="open_clock">Abrir Relógio</string>
+    <string name="open_timer">Abrir Timer</string>
+</resources>
