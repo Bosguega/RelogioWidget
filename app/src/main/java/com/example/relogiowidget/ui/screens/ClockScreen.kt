@@ -1,5 +1,5 @@
 // ClockScreen.kt
-package com.example.relogiowidget.ui
+package com.example.relogiowidget.ui.screens
 
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.tween
@@ -25,8 +25,6 @@ import kotlinx.coroutines.delay
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
-import androidx.compose.ui.res.stringResource
-import com.example.relogiowidget.R
 
 @Composable
 fun ClockScreen(onScreenTap: () -> Unit) {

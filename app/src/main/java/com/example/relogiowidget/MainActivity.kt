@@ -14,9 +14,9 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 
 // Seus próprios arquivos
-import com.example.relogiowidget.ui.NavigationGraph
-import com.example.relogiowidget.ui.NavRoutes
-import com.example.relogiowidget.ui.BottomBar
+import com.example.relogiowidget.core.navigation.NavigationGraph
+import com.example.relogiowidget.core.navigation.NavRoutes
+import com.example.relogiowidget.ui.components.BottomBar
 
 
 

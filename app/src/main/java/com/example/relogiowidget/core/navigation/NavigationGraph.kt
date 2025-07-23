@@ -1,9 +1,13 @@
-package com.example.relogiowidget.ui
+package com.example.relogiowidget.core.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
+import com.example.relogiowidget.ui.screens.AlarmsScreen
+import com.example.relogiowidget.ui.screens.StopwatchScreen
+import com.example.relogiowidget.ui.screens.TimerScreen
+import com.example.relogiowidget.ui.screens.WorldClocksScreen
 
 @Composable
 fun NavigationGraph(navController: NavHostController) {

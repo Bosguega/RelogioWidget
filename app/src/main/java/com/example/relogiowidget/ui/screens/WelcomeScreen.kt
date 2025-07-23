@@ -1,4 +1,4 @@
-package com.example.relogiowidget.ui
+package com.example.relogiowidget.ui.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*

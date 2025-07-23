@@ -1,5 +1,4 @@
-// NavRoutes.kt
-package com.example.relogiowidget.ui
+package com.example.relogiowidget.core.navigation
 
 import com.example.relogiowidget.R
 

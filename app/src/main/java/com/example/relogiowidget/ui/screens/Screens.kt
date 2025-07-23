@@ -1,5 +1,5 @@
 // Screens.kt
-package com.example.relogiowidget.ui
+package com.example.relogiowidget.ui.screens
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
